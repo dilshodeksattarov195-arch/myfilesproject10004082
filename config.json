@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheserify",
+        "uuid": 34570458,
+        "checksum": "edqx2l"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
